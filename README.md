@@ -72,10 +72,15 @@ python stix_generator.py
 # Future Functionality Ideas
 
 **1. Expanded STIX Object Support:** Add support for objects like Campaign, Intrusion Set, Observed Data, and Tool to enhance the flexibility of the tool.
+
 **2. Dynamic Relationship Support:** Add dynamic relationship outputs to support the complexities between SDOs and SROs.
+
 **3. Predefined Object Templates:** Provide common templates for frequently created STIX objects, such as templates for known malware families, phishing campaigns, or C2 infrastructure.
+
 **4. Integration with External Threat Databases:** Integration with databases like MITRE ATT&CK, CVE, or AlienVault OTX to pull in relevant threat data automatically.
+
 **5. Graphical User Interface (GUI):** Develop a web-based GUI for non-technical users, allowing drag-and-drop functionality for building STIX objects and bundles.
+
 **6. STIX Bundle Export Options:** Allow for more granular control over the STIX export options, including support for encrypted bundles and TAXII integration.
 
 # Contributing
